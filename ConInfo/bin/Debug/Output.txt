@@ -1,0 +1,12 @@
+    Debug Information-Product Starting
+    The product name is Widget
+    The available units on hand are 100
+    The per unit cost is 1,03
+    System.Xml.XmlDocument
+    Field: The product name is Widget
+    Field: The units on hand are 100
+    Field: The per unit cost is 1,03
+    Calc: Total Cost is 103
+    This message will appear
+    Fail: Message will appear since dUnitCost < 1 is False
+Debug Information-Product Ending

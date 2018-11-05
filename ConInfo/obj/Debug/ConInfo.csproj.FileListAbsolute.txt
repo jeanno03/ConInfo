@@ -1,0 +1,7 @@
+C:\Users\Jeannory.Phou\source\repos\ConInfo\ConInfo\bin\Debug\ConInfo.exe.config
+C:\Users\Jeannory.Phou\source\repos\ConInfo\ConInfo\bin\Debug\ConInfo.exe
+C:\Users\Jeannory.Phou\source\repos\ConInfo\ConInfo\bin\Debug\ConInfo.pdb
+C:\Users\Jeannory.Phou\source\repos\ConInfo\ConInfo\obj\Debug\ConInfo.csprojAssemblyReference.cache
+C:\Users\Jeannory.Phou\source\repos\ConInfo\ConInfo\obj\Debug\ConInfo.csproj.CoreCompileInputs.cache
+C:\Users\Jeannory.Phou\source\repos\ConInfo\ConInfo\obj\Debug\ConInfo.exe
+C:\Users\Jeannory.Phou\source\repos\ConInfo\ConInfo\obj\Debug\ConInfo.pdb
